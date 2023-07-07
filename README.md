@@ -1,116 +1,114 @@
-# gto_authors
+# File gto_authors Last update: 2023-07-07
 
-Last update July 6 2023
-
-# Published Papers by the MUSE consortium [126 refereed papers]
+# Published Papers by the MUSE consortium [128 refereed papers]
 
 - Abril-Melgarejo, Valentina et al. 2021 , "The Tully-Fisher relation in dense groups at z ∼ 0.7 in the MAGIC survey", [2021A&A...647A.152A](https://ui.adsabs.harvard.edu/abs/2021A&A...647A.152A)
-- Herrero Alonso, Y. et al. 2023 , "Clustering dependence on Lyα luminosity from MUSE surveys at 3 &lt; z &lt; 6", [2023A&A...671A...5H](https://ui.adsabs.harvard.edu/abs/2023A&A...671A...5H)
 - Herrero Alonso, Y. et al. 2021 , "The MUSE-Wide survey: Three-dimensional clustering analysis of Lyman-α emitters at 3.3 &lt; z &lt; 6", [2021A&A...653A.136H](https://ui.adsabs.harvard.edu/abs/2021A&A...653A.136H)
-- Bacon, Roland et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. I. Survey description, data reduction, and source detection", [2017A&A...608A...1B](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...1B)
+- Herrero Alonso, Y. et al. 2023 , "Clustering dependence on Lyα luminosity from MUSE surveys at 3 &lt; z &lt; 6", [2023A&A...671A...5H](https://ui.adsabs.harvard.edu/abs/2023A&A...671A...5H)
 - Bacon, R. et al. 2015 , "The MUSE 3D view of the Hubble Deep Field South", [2015A&A...575A..75B](https://ui.adsabs.harvard.edu/abs/2015A&A...575A..75B)
-- Bacon, Roland et al. 2023 , "The MUSE Hubble Ultra Deep Field surveys: Data release II", [2023A&A...670A...4B](https://ui.adsabs.harvard.edu/abs/2023A&A...670A...4B)
+- Bacon, Roland et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. I. Survey description, data reduction, and source detection", [2017A&A...608A...1B](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...1B)
 - Bacon, R. et al. 2021 , "The MUSE Extremely Deep Field: The cosmic web in emission at high redshift", [2021A&A...647A.107B](https://ui.adsabs.harvard.edu/abs/2021A&A...647A.107B)
+- Bacon, Roland et al. 2023 , "The MUSE Hubble Ultra Deep Field surveys: Data release II", [2023A&A...670A...4B](https://ui.adsabs.harvard.edu/abs/2023A&A...670A...4B)
 - Bina, D. et al. 2016 , "MUSE observations of the lensing cluster Abell 1689", [2016A&A...590A..14B](https://ui.adsabs.harvard.edu/abs/2016A&A...590A..14B)
-- Boogaard, Leindert A. et al. 2021 , "Measuring the Average Molecular Gas Content of Star-forming Galaxies at z = 3-4", [2021ApJ...916...12B](https://ui.adsabs.harvard.edu/abs/2021ApJ...916...12B)
-- Boogaard, Leindert A. et al. 2019 , "The ALMA Spectroscopic Survey in the HUDF: Nature and Physical Properties of Gas-mass Selected Galaxies Using MUSE Spectroscopy", [2019ApJ...882..140B](https://ui.adsabs.harvard.edu/abs/2019ApJ...882..140B)
 - Boogaard, Leindert A. et al. 2018 , "The MUSE Hubble Ultra Deep Field Survey. XI. Constraining the low-mass end of the stellar mass - star formation rate relation at z &lt; 1", [2018A&A...619A..27B](https://ui.adsabs.harvard.edu/abs/2018A&A...619A..27B)
+- Boogaard, Leindert A. et al. 2019 , "The ALMA Spectroscopic Survey in the HUDF: Nature and Physical Properties of Gas-mass Selected Galaxies Using MUSE Spectroscopy", [2019ApJ...882..140B](https://ui.adsabs.harvard.edu/abs/2019ApJ...882..140B)
+- Boogaard, Leindert A. et al. 2021 , "Measuring the Average Molecular Gas Content of Star-forming Galaxies at z = 3-4", [2021ApJ...916...12B](https://ui.adsabs.harvard.edu/abs/2021ApJ...916...12B)
 - Borisova, Elena et al. 2016 , "Ubiquitous Giant Lyα Nebulae around the Brightest Quasars at z ∼ 3.5 Revealed with MUSE", [2016ApJ...831...39B](https://ui.adsabs.harvard.edu/abs/2016ApJ...831...39B)
 - Boselli, A. et al. 2019 , "Evidence for ram-pressure stripping in a cluster of galaxies at z = 0.7", [2019A&A...631A.114B](https://ui.adsabs.harvard.edu/abs/2019A&A...631A.114B)
+- Bouché, N. et al. 2016 , "Possible Signatures of a Cold-flow Disk from MUSE Using a z ∼ 1 Galaxy-Quasar Pair toward SDSS J1422-0001", [2016ApJ...820..121B](https://ui.adsabs.harvard.edu/abs/2016ApJ...820..121B)
 - Bouché, Nicolas F. et al. 2022 , "The MUSE Extremely Deep Field: Evidence for SFR-induced cores in dark-matter dominated galaxies at z ≃ 1", [2022A&A...658A..76B](https://ui.adsabs.harvard.edu/abs/2022A&A...658A..76B)
 - Bouché, Nicolas F. et al. 2021 , "The MUSE Hubble Ultra Deep Field Survey. XVI. The angular momentum of low-mass star-forming galaxies: A cautionary tale and insights from TNG50", [2021A&A...654A..49B](https://ui.adsabs.harvard.edu/abs/2021A&A...654A..49B)
-- Bouché, N. et al. 2016 , "Possible Signatures of a Cold-flow Disk from MUSE Using a z ∼ 1 Galaxy-Quasar Pair toward SDSS J1422-0001", [2016ApJ...820..121B](https://ui.adsabs.harvard.edu/abs/2016ApJ...820..121B)
 - Brinchmann, J. et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. III. Testing photometric redshifts to 30th magnitude", [2017A&A...608A...3B](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...3B)
+- den Brok, Mark et al. 2020 , "The MUSE Atlas of Discs (MAD): Ionized gas kinematic maps and an application to diffuse ionized gas", [2020MNRAS.491.4089D](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4089D)
 - den Brok, J. S. et al. 2020 , "Probing the AGN unification model at redshift z ∼ 3 with MUSE observations of giant Ly α nebulae", [2020MNRAS.495.1874D](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.1874D)
 - den Brok, Mark et al. 2021 , "Dynamical modelling of the twisted galaxy PGC 046832", [2021MNRAS.508.4786D](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.4786D)
-- den Brok, Mark et al. 2020 , "The MUSE Atlas of Discs (MAD): Ionized gas kinematic maps and an application to diffuse ionized gas", [2020MNRAS.491.4089D](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4089D)
 - Cantalupo, Sebastiano et al. 2019 , "The large- and small-scale properties of the intergalactic gas in the Slug Ly α nebula revealed by MUSE He II emission observations", [2019MNRAS.483.5188C](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5188C)
-- Carton, David et al. 2017 , "Inferring gas-phase metallicity gradients of galaxies at the seeing limit: a forward modelling approach", [2017MNRAS.468.2140C](https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.2140C)
 - Carton, David et al. 2018 , "First gas-phase metallicity gradients of 0.1 ≲ z ≲ 0.8 galaxies with MUSE", [2018MNRAS.478.4293C](https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.4293C)
+- Carton, David et al. 2017 , "Inferring gas-phase metallicity gradients of galaxies at the seeing limit: a forward modelling approach", [2017MNRAS.468.2140C](https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.2140C)
 - Caruana, Joseph et al. 2018 , "The MUSE-Wide survey: a measurement of the Ly α emitting fraction among z &gt; 3 galaxies", [2018MNRAS.473...30C](https://ui.adsabs.harvard.edu/abs/2018MNRAS.473...30C)
 - Chen, Hsiao-Wen et al. 2019 , "Characterizing circumgalactic gas around massive ellipticals at z ≈ 0.4 - III. The galactic environment of a chemically pristine Lyman limit absorber", [2019MNRAS.484..431C](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484..431C)
-- Claeyssens, A. et al. 2019 , "Spectral variations of Lyman α emission within strongly lensed sources observed with MUSE", [2019MNRAS.489.5022C](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5022C)
 - Claeyssens, A. et al. 2022 , "The Lensed Lyman-Alpha MUSE Arcs Sample (LLAMAS). I. Characterisation of extended Lyman-alpha halos and spatial offsets", [2022A&A...666A..78C](https://ui.adsabs.harvard.edu/abs/2022A&A...666A..78C)
+- Claeyssens, A. et al. 2019 , "Spectral variations of Lyman α emission within strongly lensed sources observed with MUSE", [2019MNRAS.489.5022C](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5022C)
 - Contini, T. et al. 2016 , "Deep MUSE observations in the HDFS. Morpho-kinematics of distant star-forming galaxies down to 10<SUP>8</SUP>M<SUB>⊙</SUB>", [2016A&A...591A..49C](https://ui.adsabs.harvard.edu/abs/2016A&A...591A..49C)
 - Diener, C. et al. 2017 , "The MUSE-Wide survey: detection of a clustering signal from Lyman α emitters in the range 3 &lt; z &lt; 6", [2017MNRAS.471.3186D](https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.3186D)
 - Drake, Alyssa B. et al. 2017 , "MUSE deep-fields: the Ly α luminosity function in the Hubble Deep Field-South at 2.91 &lt; z &lt; 6.64", [2017MNRAS.471..267D](https://ui.adsabs.harvard.edu/abs/2017MNRAS.471..267D)
 - Epinat, B. et al. 2018 , "Ionised gas structure of 100 kpc in an over-dense region of the galaxy group COSMOS-Gr30 at z   0.7", [2018A&A...609A..40E](https://ui.adsabs.harvard.edu/abs/2018A&A...609A..40E)
 - Erroz-Ferrer, Santiago et al. 2019 , "The MUSE Atlas of Disks (MAD): resolving star formation rates and gas metallicities on &lt;100 pc scales†", [2019MNRAS.484.5009E](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.5009E)
-- Feltre, Anna et al. 2020 , "The MUSE Hubble Ultra Deep Field Survey. XV. The mean rest-UV spectra of Lyα emitters at z &gt; 3", [2020A&A...641A.118F](https://ui.adsabs.harvard.edu/abs/2020A&A...641A.118F)
 - Feltre, Anna et al. 2018 , "The MUSE Hubble Ultra Deep Field Survey. XII. Mg II emission and absorption in star-forming galaxies", [2018A&A...617A..62F](https://ui.adsabs.harvard.edu/abs/2018A&A...617A..62F)
-- Finley, Hayley et al. 2017 , "Galactic winds with MUSE: A direct detection of Fe II* emission from a z = 1.29 galaxy", [2017A&A...605A.118F](https://ui.adsabs.harvard.edu/abs/2017A&A...605A.118F)
+- Feltre, Anna et al. 2020 , "The MUSE Hubble Ultra Deep Field Survey. XV. The mean rest-UV spectra of Lyα emitters at z &gt; 3", [2020A&A...641A.118F](https://ui.adsabs.harvard.edu/abs/2020A&A...641A.118F)
 - Finley, Hayley et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. VII. Fe II* emission in star-forming galaxies", [2017A&A...608A...7F](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...7F)
+- Finley, Hayley et al. 2017 , "Galactic winds with MUSE: A direct detection of Fe II* emission from a z = 1.29 galaxy", [2017A&A...605A.118F](https://ui.adsabs.harvard.edu/abs/2017A&A...605A.118F)
 - Freundlich, Jonathan et al. 2021 , "MusE GAs FLOw and wind (MEGAFLOW) VII. A NOEMA pilot program to probe molecular gas in galaxies with measured circumgalactic gas flows", [2021MNRAS.501.1900F](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.1900F)
-- Gallego, Sofia G. et al. 2021 , "Constraining the cosmic UV background at z &gt; 3 with MUSE Lyman-α emission observations", [2021MNRAS.504...16G](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...16G)
 - Gallego, Sofia G. et al. 2018 , "Stacking the Cosmic Web in fluorescent Ly α emission with MUSE", [2018MNRAS.475.3854G](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475.3854G)
-- Giesers, Benjamin et al. 2019 , "A stellar census in globular clusters with MUSE: Binaries in NGC 3201", [2019A&A...632A...3G](https://ui.adsabs.harvard.edu/abs/2019A&A...632A...3G)
+- Gallego, Sofia G. et al. 2021 , "Constraining the cosmic UV background at z &gt; 3 with MUSE Lyman-α emission observations", [2021MNRAS.504...16G](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...16G)
 - Giesers, Benjamin et al. 2018 , "A detached stellar-mass black hole candidate in the globular cluster NGC 3201", [2018MNRAS.475L..15G](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..15G)
+- Giesers, Benjamin et al. 2019 , "A stellar census in globular clusters with MUSE: Binaries in NGC 3201", [2019A&A...632A...3G](https://ui.adsabs.harvard.edu/abs/2019A&A...632A...3G)
 - Gunawardhana, M. L. P. et al. 2020 , "Stellar populations and physical properties of starbursts in the antennae galaxy from self-consistent modelling of MUSE spectra", [2020MNRAS.497.3860G](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3860G)
 - Guérou, Adrien et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. V. Spatially resolved stellar kinematics of galaxies at redshift 0.2 ≲ z ≲ 0.8", [2017A&A...608A...5G](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...5G)
 - Guérou, A. et al. 2016 , "Exploring the mass assembly of the early-type disc galaxy NGC 3115 with MUSE", [2016A&A...591A.143G](https://ui.adsabs.harvard.edu/abs/2016A&A...591A.143G)
-- Göttgens, Fabian et al. 2019 , "A stellar census in globular clusters with MUSE: A spectral catalogue of emission-line sources", [2019A&A...631A.118G](https://ui.adsabs.harvard.edu/abs/2019A&A...631A.118G)
 - Göttgens, Fabian et al. 2019 , "Discovery of an old nova remnant in the Galactic globular cluster M 22", [2019A&A...626A..69G](https://ui.adsabs.harvard.edu/abs/2019A&A...626A..69G)
 - Göttgens, Fabian et al. 2021 , "Central kinematics of the Galactic globular cluster M80", [2021MNRAS.507.4788G](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.4788G)
+- Göttgens, Fabian et al. 2019 , "A stellar census in globular clusters with MUSE: A spectral catalogue of emission-line sources", [2019A&A...631A.118G](https://ui.adsabs.harvard.edu/abs/2019A&A...631A.118G)
 - Hashimoto, T. et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. X. Lyα equivalent widths at 2.9 &lt; z &lt; 6.6", [2017A&A...608A..10H](https://ui.adsabs.harvard.edu/abs/2017A&A...608A..10H)
+- Herenz, Edmund Christian et al. 2017 , "LSDCat: Detection and cataloguing of emission-line sources in integral-field spectroscopy datacubes", [2017A&A...602A.111H](https://ui.adsabs.harvard.edu/abs/2017A&A...602A.111H)
 - Herenz, Edmund Christian et al. 2019 , "The MUSE-Wide Survey: A determination of the Lyman α emitter luminosity function at 3 &lt; z &lt; 6", [2019A&A...621A.107H](https://ui.adsabs.harvard.edu/abs/2019A&A...621A.107H)
-- Herenz, Edmund Christian et al. 2021 , "LSDCat: Detection and cataloguing of emission-line sources in integral-field spectroscopy datacubes (Corrigendum)", [2021A&A...649C...5H](https://ui.adsabs.harvard.edu/abs/2021A&A...649C...5H)
 - Herenz, Edmund Christian et al. 2017 , "The MUSE-Wide survey: A first catalogue of 831 emission line galaxies", [2017A&A...606A..12H](https://ui.adsabs.harvard.edu/abs/2017A&A...606A..12H)
 - Husser, Tim-Oliver et al. 2016 , "MUSE crowded field 3D spectroscopy of over 12 000 stars in the globular cluster NGC 6397. I. The first comprehensive HRD of a globular cluster", [2016A&A...588A.148H](https://ui.adsabs.harvard.edu/abs/2016A&A...588A.148H)
 - Husser, Tim-Oliver et al. 2020 , "A stellar census in globular clusters with MUSE. Extending the CaT-metallicity relation below the horizontal branch and applying it to multiple populations", [2020A&A...635A.114H](https://ui.adsabs.harvard.edu/abs/2020A&A...635A.114H)
 - Inami, H. et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. II. Spectroscopic redshifts and comparisons to color selections of high-redshift galaxies", [2017A&A...608A...2I](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...2I)
-- Johnson, Sean D. et al. 2018 , "Galaxy and Quasar Fueling Caught in the Act from the Intragroup to the Interstellar Medium", [2018ApJ...869L...1J](https://ui.adsabs.harvard.edu/abs/2018ApJ...869L...1J)
 - Johnson, Sean D. et al. 2022 , "Directly Tracing Cool Filamentary Accretion over &gt;100 kpc into the Interstellar Medium of a Quasar Host at z = 1", [2022ApJ...940L..40J](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..40J)
+- Johnson, Sean D. et al. 2018 , "Galaxy and Quasar Fueling Caught in the Act from the Intragroup to the Interstellar Medium", [2018ApJ...869L...1J](https://ui.adsabs.harvard.edu/abs/2018ApJ...869L...1J)
 - Kamann, S. et al. 2018 , "A stellar census in globular clusters with MUSE: The contribution of rotation to cluster dynamics studied with 200 000 stars", [2018MNRAS.473.5591K](https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.5591K)
 - Kamann, S. et al. 2016 , "MUSE crowded field 3D spectroscopy of over 12 000 stars in the globular cluster NGC 6397. II. Probing the internal dynamics and the presence of a central black hole", [2016A&A...588A.149K](https://ui.adsabs.harvard.edu/abs/2016A&A...588A.149K)
-- Kamann, S. et al. 2020 , "The peculiar kinematics of the multiple populations in the globular cluster Messier 80 (NGC 6093)", [2020MNRAS.492..966K](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492..966K)
 - Kamann, S. et al. 2020 , "The binary content of multiple populations in NGC 3201", [2020A&A...635A..65K](https://ui.adsabs.harvard.edu/abs/2020A&A...635A..65K)
+- Kamann, S. et al. 2020 , "The peculiar kinematics of the multiple populations in the globular cluster Messier 80 (NGC 6093)", [2020MNRAS.492..966K](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492..966K)
 - Kerutt, J. et al. 2022 , "Equivalent widths of Lyman α emitters in MUSE-Wide and MUSE-Deep", [2022A&A...659A.183K](https://ui.adsabs.harvard.edu/abs/2022A&A...659A.183K)
 - Kollatschny, W. et al. 2020 , "NGC 6240: A triple nucleus system in the advanced or final state of merging", [2020A&A...633A..79K](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..79K)
-- Krajnović, Davor et al. 2018 , "Climbing to the top of the galactic mass ladder: evidence for frequent prolate-like rotation among the most massive galaxies", [2018MNRAS.477.5327K](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.5327K)
 - Krajnović, Davor et al. 2015 , "Unveiling the counter-rotating nature of the kinematically distinct core in NGC 5813 with MUSE", [2015MNRAS.452....2K](https://ui.adsabs.harvard.edu/abs/2015MNRAS.452....2K)
+- Krajnović, Davor et al. 2018 , "Climbing to the top of the galactic mass ladder: evidence for frequent prolate-like rotation among the most massive galaxies", [2018MNRAS.477.5327K](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.5327K)
 - Kusakabe, Haruka et al. 2020 , "The MUSE Hubble Ultra Deep Field Survey. XIV. Evolution of the Lyα emitter fraction from z = 3 to z = 6", [2020A&A...638A..12K](https://ui.adsabs.harvard.edu/abs/2020A&A...638A..12K)
 - Kusakabe, Haruka et al. 2022 , "The MUSE eXtremely Deep Field: Individual detections of Lyα haloes around rest-frame UV-selected galaxies at z ≃ 2.9-4.4", [2022A&A...660A..44K](https://ui.adsabs.harvard.edu/abs/2022A&A...660A..44K)
 - Lagattuta, David J. et al. 2017 , "Lens modelling Abell 370: crowning the final frontier field with MUSE", [2017MNRAS.469.3946L](https://ui.adsabs.harvard.edu/abs/2017MNRAS.469.3946L)
 - Lam, Daniel et al. 2019 , "The mean Hα EW and Lyman-continuum photon production efficiency for faint z ≈ 4-5 galaxies", [2019A&A...627A.164L](https://ui.adsabs.harvard.edu/abs/2019A&A...627A.164L)
 - Langan, Ivanna et al. 2023 , "MusE GAs FLOw and Wind (MEGAFLOW) IX. The impact of gas flows on the relations between the mass, star formation rate, and metallicity of galaxies", [2023MNRAS.521..546L](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521..546L)
-- Latour, M. et al. 2019 , "A stellar census in globular clusters with MUSE: multiple populations chemistry in NGC 2808", [2019A&A...631A..14L](https://ui.adsabs.harvard.edu/abs/2019A&A...631A..14L)
 - Latour, M. et al. 2021 , "A stellar census in globular clusters with MUSE. A new perspective on the multiple main sequences of ω Centauri", [2021A&A...653L...8L](https://ui.adsabs.harvard.edu/abs/2021A&A...653L...8L)
-- Leclercq, Floriane et al. 2022 , "The MUSE eXtremely deep field: first panoramic view of an Mg II emitting intragroup medium", [2022A&A...663A..11L](https://ui.adsabs.harvard.edu/abs/2022A&A...663A..11L)
-- Leclercq, Floriane et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. VIII. Extended Lyman-α haloes around high-z star-forming galaxies", [2017A&A...608A...8L](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...8L)
+- Latour, M. et al. 2019 , "A stellar census in globular clusters with MUSE: multiple populations chemistry in NGC 2808", [2019A&A...631A..14L](https://ui.adsabs.harvard.edu/abs/2019A&A...631A..14L)
 - Leclercq, Floriane et al. 2020 , "The MUSE Hubble Ultra Deep Field Survey. XIII. Spatially resolved spectral properties of Lyman α haloes around star-forming galaxies at z &gt; 3", [2020A&A...635A..82L](https://ui.adsabs.harvard.edu/abs/2020A&A...635A..82L)
+- Leclercq, Floriane et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. VIII. Extended Lyman-α haloes around high-z star-forming galaxies", [2017A&A...608A...8L](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...8L)
+- Leclercq, Floriane et al. 2022 , "The MUSE eXtremely deep field: first panoramic view of an Mg II emitting intragroup medium", [2022A&A...663A..11L](https://ui.adsabs.harvard.edu/abs/2022A&A...663A..11L)
 - Mackenzie, Ruari et al. 2021 , "Revealing the impact of quasar luminosity on giant Ly α nebulae", [2021MNRAS.502..494M](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502..494M)
 - Mahler, G. et al. 2018 , "Strong-lensing analysis of A2744 with MUSE and Hubble Frontier Fields images", [2018MNRAS.473..663M](https://ui.adsabs.harvard.edu/abs/2018MNRAS.473..663M)
 - Marino, Raffaella Anna et al. 2018 , "Dark Galaxy Candidates at Redshift ∼3.5 Detected with MUSE", [2018ApJ...859...53M](https://ui.adsabs.harvard.edu/abs/2018ApJ...859...53M)
 - Marino, Raffaella Anna et al. 2019 , "A Giant Lyα Nebula and a Small-scale Clumpy Outflow in the System of the Exotic Quasar J0952+0114 Unveiled by MUSE", [2019ApJ...880...47M](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...47M)
 - Martocchia, S. et al. 2020 , "Leveraging HST with MUSE: II. Na-abundance variations in intermediate age star clusters", [2020MNRAS.499.1200M](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.1200M)
 - Mary, David et al. 2020 , "ORIGIN: Blind detection of faint emission line galaxies in MUSE datacubes", [2020A&A...635A.194M](https://ui.adsabs.harvard.edu/abs/2020A&A...635A.194M)
-- Maseda, Michael V. et al. 2020 , "Elevated ionizing photon production efficiency in faint high-equivalent-width Lyman-α emitters", [2020MNRAS.493.5120M](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5120M)
 - Maseda, Michael V. et al. 2018 , "MUSE Spectroscopic Identifications of Ultra-faint Emission Line Galaxies with M <SUB>UV</SUB> ∼ -15", [2018ApJ...865L...1M](https://ui.adsabs.harvard.edu/abs/2018ApJ...865L...1M)
+- Maseda, Michael V. et al. 2020 , "Elevated ionizing photon production efficiency in faint high-equivalent-width Lyman-α emitters", [2020MNRAS.493.5120M](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5120M)
 - Maseda, Michael V. et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. IV. Global properties of C III] emitters", [2017A&A...608A...4M](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...4M)
 - Matthee, Jorryt et al. 2022 , "Deciphering stellar metallicities in the early Universe: case study of a young galaxy at z = 4.77 in the MUSE eXtremely Deep Field", [2022A&A...660A..10M](https://ui.adsabs.harvard.edu/abs/2022A&A...660A..10M)
 - Matthee, Jorryt et al. 2020 , "The nature of CR7 revealed with MUSE: a young starburst powering extended Ly α emission at z = 6.6", [2020MNRAS.498.3043M](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.3043M)
 - Mercier, W. et al. 2022 , "Scaling relations of z ∼ 0.25-1.5 galaxies in various environments from the morpho-kinematics analysis of the MAGIC sample", [2022A&A...665A..54M](https://ui.adsabs.harvard.edu/abs/2022A&A...665A..54M)
 - Micheva, Genoveva et al. 2022 , "MUSE crowded field 3D spectroscopy in NGC 300. III. Characterizing extremely faint HII regions and diffuse ionized gas", [2022A&A...668A..74M](https://ui.adsabs.harvard.edu/abs/2022A&A...668A..74M)
-- Monreal-Ibero, A. et al. 2015 , "Towards DIB mapping in galaxies beyond 100 Mpc. A radial profile of the λ5780.5 diffuse interstellar band in AM 1353-272 B", [2015A&A...576L...3M](https://ui.adsabs.harvard.edu/abs/2015A&A...576L...3M)
-- Monreal-Ibero, Ana et al. 2023 , "UM 462, a local green pea galaxy analogue under the MUSE magnifying glass", [2023A&A...674A.210M](https://ui.adsabs.harvard.edu/abs/2023A&A...674A.210M)
-- Monreal-Ibero, Ana et al. 2020 , "The MUSE view of the planetary nebula NGC 3132", [2020A&A...634A..47M](https://ui.adsabs.harvard.edu/abs/2020A&A...634A..47M)
 - Monreal-Ibero, A. et al. 2018 , "Diffuse interstellar bands λ5780 and λ5797 in the Antennae Galaxy as seen by MUSE", [2018A&A...615A..33M](https://ui.adsabs.harvard.edu/abs/2018A&A...615A..33M)
+- Monreal-Ibero, Ana et al. 2023 , "UM 462, a local green pea galaxy analogue under the MUSE magnifying glass", [2023A&A...674A.210M](https://ui.adsabs.harvard.edu/abs/2023A&A...674A.210M)
+- Monreal-Ibero, A. et al. 2015 , "Towards DIB mapping in galaxies beyond 100 Mpc. A radial profile of the λ5780.5 diffuse interstellar band in AM 1353-272 B", [2015A&A...576L...3M](https://ui.adsabs.harvard.edu/abs/2015A&A...576L...3M)
+- Monreal-Ibero, Ana et al. 2020 , "The MUSE view of the planetary nebula NGC 3132", [2020A&A...634A..47M](https://ui.adsabs.harvard.edu/abs/2020A&A...634A..47M)
 - Muzahid, Sowgat et al. 2021 , "MUSEQuBES: characterizing the circumgalactic medium of redshift ≈3.3 Ly α emitters", [2021MNRAS.508.5612M](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5612M)
 - Muzahid, Sowgat et al. 2020 , "MUSEQuBES: calibrating the redshifts of Ly α emitters using stacked circumgalactic medium absorption profiles", [2020MNRAS.496.1013M](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.1013M)
 - Nanayakkara, Themiya et al. 2019 , "Exploring He II λ1640 emission line properties at z ∼2-4", [2019A&A...624A..89N](https://ui.adsabs.harvard.edu/abs/2019A&A...624A..89N)
 - Paalvast, M. et al. 2018 , "Properties and redshift evolution of star-forming galaxies with high [O III]/[O II] ratios with MUSE at 0.28 &lt; z &lt; 0.85", [2018A&A...618A..40P](https://ui.adsabs.harvard.edu/abs/2018A&A...618A..40P)
 - Pagotto, Ilaria et al. 2021 , "Optical emission lines in the most massive galaxies: Morphology, kinematics, and ionisation properties", [2021A&A...649A..63P](https://ui.adsabs.harvard.edu/abs/2021A&A...649A..63P)
+- Patrício, V. et al. 2018 , "Kinematics, turbulence, and star formation of z ∼ 1 strongly lensed galaxies seen with MUSE", [2018MNRAS.477...18P](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477...18P)
 - Patrício, V. et al. 2019 , "Resolved scaling relations and metallicity gradients on sub-kiloparsec scales at z ≈ 1", [2019MNRAS.489..224P](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489..224P)
 - Patrício, Vera et al. 2016 , "A young star-forming galaxy at z = 3.5 with an extended Lyman α halo seen with MUSE", [2016MNRAS.456.4191P](https://ui.adsabs.harvard.edu/abs/2016MNRAS.456.4191P)
-- Patrício, V. et al. 2018 , "Kinematics, turbulence, and star formation of z ∼ 1 strongly lensed galaxies seen with MUSE", [2018MNRAS.477...18P](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477...18P)
 - Richard, J. et al. 2015 , "MUSE observations of the lensing cluster SMACSJ2031.8-4036: new constraints on the mass distribution in the cluster core.", [2015MNRAS.446L..16R](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446L..16R)
 - Richard, Johan et al. 2021 , "An atlas of MUSE observations towards twelve massive lensing clusters", [2021A&A...646A..83R](https://ui.adsabs.harvard.edu/abs/2021A&A...646A..83R)
 - Roth, Martin M. et al. 2018 , "MUSE crowded field 3D spectroscopy in NGC 300. I. First results from central fields", [2018A&A...618A...3R](https://ui.adsabs.harvard.edu/abs/2018A&A...618A...3R)
 - Saracino, S. et al. 2020 , "Leveraging HST with MUSE - I. Sodium abundance variations within the 2-Gyr-old cluster NGC 1978", [2020MNRAS.498.4472S](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4472S)
 - Schmidt, K. B. et al. 2021 , "Recovery and analysis of rest-frame UV emission lines in 2052 galaxies observed with MUSE at 1.5 &lt; z &lt; 6.4", [2021A&A...654A..80S](https://ui.adsabs.harvard.edu/abs/2021A&A...654A..80S)
 - Schroetter, Ilane et al. 2019 , "MusE GAs FLOw and Wind (MEGAFLOW) - III. Galactic wind properties using background quasars", [2019MNRAS.490.4368S](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4368S)
-- Schroetter, Ilane et al. 2021 , "MusE GAs FLOw and Wind (MEGAFLOW) VI. A study of C IV and Mg II absorbing gas surrounding [O II] emitting galaxies", [2021MNRAS.506.1355S](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.1355S)
 - Schroetter, I. et al. 2016 , "Muse Gas Flow and Wind (MEGAFLOW). I. First MUSE Results on Background Quasars", [2016ApJ...833...39S](https://ui.adsabs.harvard.edu/abs/2016ApJ...833...39S)
+- Schroetter, Ilane et al. 2021 , "MusE GAs FLOw and Wind (MEGAFLOW) VI. A study of C IV and Mg II absorbing gas surrounding [O II] emitting galaxies", [2021MNRAS.506.1355S](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.1355S)
 - Soemitro, Azlizan A. et al. 2023 , "MUSE crowded field 3D spectroscopy in NGC 300. IV. Planetary nebula luminosity function", [2023A&A...671A.142S](https://ui.adsabs.harvard.edu/abs/2023A&A...671A.142S)
 - Spavone, Marilena et al. 2021 , "Assembly history of massive galaxies. A pilot project with VEGAS deep imaging and M3G integral field spectroscopy", [2021A&A...649A.161S](https://ui.adsabs.harvard.edu/abs/2021A&A...649A.161S)
 - Swinbank, A. M. et al. 2015 , "Mapping the dynamics of a giant Ly α halo at z = 4.1 with MUSE: the energetics of a large-scale AGN-driven outflow around a massive, high-redshift galaxy", [2015MNRAS.449.1298S](https://ui.adsabs.harvard.edu/abs/2015MNRAS.449.1298S)
@@ -118,20 +116,22 @@ Last update July 6 2023
 - Ventou, E. et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. IX. Evolution of galaxy merger fraction since z ≈ 6", [2017A&A...608A...9V](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...9V)
 - Ventou, E. et al. 2019 , "New criteria for the selection of galaxy close pairs from cosmological simulations: evolution of the major and minor merger fraction in MUSE deep fields", [2019A&A...631A..87V](https://ui.adsabs.harvard.edu/abs/2019A&A...631A..87V)
 - Verhamme, A. et al. 2018 , "Recovering the systemic redshift of galaxies from their Lyman alpha line profile", [2018MNRAS.478L..60V](https://ui.adsabs.harvard.edu/abs/2018MNRAS.478L..60V)
-- de La Vieuville, G. et al. 2019 , "Faint end of the z ∼ 3-7 luminosity function of Lyman-alpha emitters behind lensing clusters observed with MUSE", [2019A&A...628A...3D](https://ui.adsabs.harvard.edu/abs/2019A&A...628A...3D)
 - de La Vieuville, G. et al. 2020 , "MUSE observations towards the lensing cluster A2744: Intersection between the LBG and LAE populations at z ∼ 3-7", [2020A&A...644A..39D](https://ui.adsabs.harvard.edu/abs/2020A&A...644A..39D)
+- de La Vieuville, G. et al. 2019 , "Faint end of the z ∼ 3-7 luminosity function of Lyman-alpha emitters behind lensing clusters observed with MUSE", [2019A&A...628A...3D](https://ui.adsabs.harvard.edu/abs/2019A&A...628A...3D)
 - Weilbacher, Peter M. et al. 2020 , "The data processing pipeline for the MUSE instrument", [2020A&A...641A..28W](https://ui.adsabs.harvard.edu/abs/2020A&A...641A..28W)
-- Weilbacher, Peter M. et al. 2018 , "Lyman-continuum leakage as dominant source of diffuse ionized gas in the Antennae galaxy", [2018A&A...611A..95W](https://ui.adsabs.harvard.edu/abs/2018A&A...611A..95W)
 - Weilbacher, Peter M. et al. 2015 , "A MUSE map of the central Orion Nebula (M 42)", [2015A&A...582A.114W](https://ui.adsabs.harvard.edu/abs/2015A&A...582A.114W)
+- Weilbacher, Peter M. et al. 2018 , "Lyman-continuum leakage as dominant source of diffuse ionized gas in the Antennae galaxy", [2018A&A...611A..95W](https://ui.adsabs.harvard.edu/abs/2018A&A...611A..95W)
+- Wendt, Martin et al. 2021 , "MusE GAs FLOw and Wind V. The dust/metallicity-anisotropy of the circum-galactic medium", [2021MNRAS.502.3733W](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3733W)
 - Wendt, Martin et al. 2017 , "Mapping diffuse interstellar bands in the local ISM on small scales via MUSE 3D spectroscopy. A pilot study based on globular cluster NGC 6397", [2017A&A...607A.133W](https://ui.adsabs.harvard.edu/abs/2017A&A...607A.133W)
 - Wisotzki, L. et al. 2018 , "Nearly all the sky is covered by Lyman-α emission around high-redshift galaxies", [2018Natur.562..229W](https://ui.adsabs.harvard.edu/abs/2018Natur.562..229W)
 - Wisotzki, L. et al. 2016 , "Extended Lyman α haloes around individual high-redshift galaxies revealed by MUSE", [2016A&A...587A..98W](https://ui.adsabs.harvard.edu/abs/2016A&A...587A..98W)
+- Zabl, Johannes et al. 2019 , "MusE GAs FLOw and Wind (MEGAFLOW) II. A study of gas accretion around z ≈ 1 star-forming galaxies with background quasars", [2019MNRAS.485.1961Z](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.1961Z)
 - Zabl, Johannes et al. 2021 , "MusE GAs FLOw and Wind (MEGAFLOW) VIII. Discovery of a MgII emission halo probed by a quasar sightline", [2021MNRAS.507.4294Z](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.4294Z)
 - Zabl, Johannes et al. 2020 , "MusE GAs FLOw and Wind (MEGAFLOW) IV. A two sightline tomography of a galactic wind", [2020MNRAS.492.4576Z](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.4576Z)
-- Zoutendijk, Sebastiaan L. et al. 2021 , "The MUSE-Faint survey. II. The dark-matter density profile of the ultra-faint dwarf galaxy Eridanus 2", [2021A&A...651A..80Z](https://ui.adsabs.harvard.edu/abs/2021A&A...651A..80Z)
 - Zoutendijk, Sebastiaan L. et al. 2020 , "The MUSE-Faint survey. I. Spectroscopic evidence for a star cluster in Eridanus 2 and constraints on MACHOs as a constituent of dark matter", [2020A&A...635A.107Z](https://ui.adsabs.harvard.edu/abs/2020A&A...635A.107Z)
+- Zoutendijk, Sebastiaan L. et al. 2021 , "The MUSE-Faint survey. II. The dark-matter density profile of the ultra-faint dwarf galaxy Eridanus 2", [2021A&A...651A..80Z](https://ui.adsabs.harvard.edu/abs/2021A&A...651A..80Z)
 
-# Ten most cited papers [total of 5296 citations] 
+# Ten most cited papers [total of 5440 citations] 
 
 - [234 citations] Bacon, Roland et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. I. Survey description, data reduction, and source detection", [2017A&A...608A...1B](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...1B)
 - [225 citations] Wisotzki, L. et al. 2016 , "Extended Lyman α haloes around individual high-redshift galaxies revealed by MUSE", [2016A&A...587A..98W](https://ui.adsabs.harvard.edu/abs/2016A&A...587A..98W)
@@ -143,7 +143,7 @@ Last update July 6 2023
 - [142 citations] Giesers, Benjamin et al. 2018 , "A detached stellar-mass black hole candidate in the globular cluster NGC 3201", [2018MNRAS.475L..15G](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..15G)
 - [136 citations] Inami, H. et al. 2017 , "The MUSE Hubble Ultra Deep Field Survey. II. Spectroscopic redshifts and comparisons to color selections of high-redshift galaxies", [2017A&A...608A...2I](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...2I)
 - [117 citations] Mahler, G. et al. 2018 , "Strong-lensing analysis of A2744 with MUSE and Hubble Frontier Fields images", [2018MNRAS.473..663M](https://ui.adsabs.harvard.edu/abs/2018MNRAS.473..663M)
-    
+
 # Alphabetical list of authors of all published GTO papers 
 
 - Abril-Melgarejo, Valentina
@@ -178,6 +178,7 @@ Last update July 6 2023
 - Caruana, Joseph
 - Castro, Norberto
 - Charlot, Stéphane
+- Chelouche, D.
 - Chen, Hsiao-Wen
 - Cherrey, Maxime
 - Chevallard, Jacopo
@@ -237,11 +238,13 @@ Last update July 6 2023
 - Herenz, Edmund Christian
 - Herrero Alonso, Y.
 - Hodge, Jacqueline
+- Husemann, Bernd
 - Husser, Tim-Oliver
 - Inami, Hanae
 - Iodice, Enrichetta
 - Ivison, Rob
 - Jacoby, George H.
+- Jarno, Aurélien
 - Jeanneau, A.
 - Johnson, Sean D.
 - Kacharov, N.
@@ -301,6 +304,7 @@ Last update July 6 2023
 - Nanayakkara, Themiya
 - Nelson, Dylan
 - Norberg, P.
+- Ochmann, M. W.
 - Oesch, Pascal
 - Onodera, Masato
 - Paalvast, Mieke
@@ -343,6 +347,7 @@ Last update July 6 2023
 - Schouws, Sander
 - Schreiber, Corentin
 - Schroetter, Ilane
+- Schutz, Antony
 - Segers, M. C.
 - Selman, Fernando
 - Shepherd, Martin
@@ -358,6 +363,7 @@ Last update July 6 2023
 - Stefanon, Mauro
 - Steinmetz, Matthias
 - Straka, Lorrie A.
+- Streicher, Ole
 - Swinbank, A. M.
 - Tacchella, Sandro
 - Tamone, Amélie
@@ -376,6 +382,7 @@ Last update July 6 2023
 - Vitte, Eloise
 - Vogelsberger, Mark
 - Wagg, Jeff
+- Walsh, Jeremy R.
 - Walter, Fabian
 - Walth, Gregory L.
 - Watkins, L. L.
